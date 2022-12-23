@@ -1,10 +1,10 @@
 # Readme
 
-- npm i -g ts-node ts-node-dev
+```bash
+# install
+npm i -g ts-node ts-node-dev
 
-USAGE:
-
-```
+# usage
 ts-node-dev --cls --respawn 1.ts
 ts-node-dev --cls --respawn 2.ts
 ```
